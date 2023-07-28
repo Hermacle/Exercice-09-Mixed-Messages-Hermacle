@@ -15,3 +15,6 @@ const mixedElements = {
     days: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 };
 
+//array that stores randomly choosed element
+let mixedMessage = [];
+
